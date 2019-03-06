@@ -4,4 +4,4 @@
 - To test for an image change the path given to ```test_img``` variable .
 - Trained the recognizer with two lots of images .
 - Finally put the result to test.
-- The result obtained is : <br><br><img src = 'https://github.com/nileshpatra/Face-Recognition-using-OpenCV/blob/master/saved.jpg'>
+- The result obtained is : <br><br><img src = 'https://github.com/nileshpatra/Face-Recognition-using-OpenCV/blob/master/Face-Recognition-using-OpenCV/saved.jpg'>
